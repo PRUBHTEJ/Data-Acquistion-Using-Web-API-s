@@ -1,7 +1,7 @@
 # Data Acquistion Using Web API's
 This repository contains information about how we may use different API requests to acquire data from a particular website. 
 
-API --> Application Programming Interface
+(API --> Application Programming Interface)
 
 ##### Structure of an API:
 
