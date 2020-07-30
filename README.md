@@ -27,8 +27,8 @@ The following API requests have been used:
 
 API's from the following websites have been used as a tutorial so as to depict the steps for acquiring the data from a particular website:
 
-1. **[OpenWeatherMap API]()**
+1. **[OpenWeatherMap API](https://github.com/PRUBHTEJ/Data-Acquistion-Using-Web-API-s/blob/master/OpenWeatherMap%20API)**
 
-2. **[FaceBook API]()**
+2. **[FaceBook API](https://github.com/PRUBHTEJ/Data-Acquistion-Using-Web-API-s/tree/master/FaceBook%20API)**
 
-3. **[Google API]()**
+3. **[Google API](https://github.com/PRUBHTEJ/Data-Acquistion-Using-Web-API-s/blob/master/Google%20API.ipynb)**
